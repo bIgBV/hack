@@ -1,1 +1,1 @@
-Initial commit for next uber cool unicorn!!!!1
+Initial commit for the next uber cool unicorn!!!!1
